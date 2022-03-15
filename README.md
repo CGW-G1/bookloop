@@ -40,8 +40,8 @@ Frontend Github Repository: https://github.com/franpoh/bookloop
 - MUI, react UI library for certain components
 
 UI Layout
-- [Draft](./images/Database_Draft.jpg)
-- [Final](./images/Database_Final.JPG)
+- [Draft](./images/UI_Draft.jpg)
+- [Final](./images/UI_Final.jpg)
 
 
 
@@ -65,7 +65,7 @@ Database Layout
 
 # START_UP
 
-The website is hosted at https://franpoh.github.io/bookloop/
+Access our website at https://franpoh.github.io/bookloop/
 
 You can also run it with 'npm start', which will host the site at http://localhost:3000/
 
